@@ -1,0 +1,7 @@
+.ProductList-item {
+  float:left;
+  clear:left;
+}
+.ProductList-innerImageWrapper{
+  object-fit: fill;
+  }
