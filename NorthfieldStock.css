@@ -1,17 +1,18 @@
-.ProductList-item {
-  float:left;
-  clear:left;
-}
 .ProductList-innerImageWrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    width:400px;
-    height:500px;
+	float: left;
+	width: 20%;
 }
-.ProductList-innerImageWrapper img{
+.ProductList-innerImageWrapper img {
     flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%
-  }
+    width: 100%;
+}
+.ProductList-meta {
+	float: left;
+	width: 75%;
+	margin-left:20px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
