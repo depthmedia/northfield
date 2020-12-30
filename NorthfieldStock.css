@@ -2,6 +2,16 @@
   float:left;
   clear:left;
 }
-.ProductList-innerImageWrapper{
-  object-fit: fill;
+.ProductList-innerImageWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width:400px;
+    height:500px;
+}
+.ProductList-innerImageWrapper img{
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
   }
