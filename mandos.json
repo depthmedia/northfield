@@ -44,7 +44,6 @@
    "url": "https://themusicemporium.com/products/northfield-a5-special",
    "price": "$3,500.00",
    "image": "<img class=\"grid-product__image lazyautosizes lazyloaded\" data-widths=\"[180, 360, 540, 720, 900, 1080]\" data-aspectratio=\"0.7728592162554426\" data-sizes=\"auto\" alt=\"\" data-srcset=\"//cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_180x.jpg?v=1608238957 180w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_360x.jpg?v=1608238957 360w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_540x.jpg?v=1608238957 540w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_720x.jpg?v=1608238957 720w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_900x.jpg?v=1608238957 900w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_1080x.jpg?v=1608238957 1080w\" sizes=\"363px\" srcset=\"//cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_180x.jpg?v=1608238957 180w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_360x.jpg?v=1608238957 360w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_540x.jpg?v=1608238957 540w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_720x.jpg?v=1608238957 720w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_900x.jpg?v=1608238957 900w, //cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-A5SP-3_1080x.jpg?v=1608238957 1080w\">",
-   "sold": "Out of Stock",
    "dealer": "The Music Emporium",
    "dealer_url": "https://themusicemporium.com/"
   },
@@ -166,6 +165,30 @@
    "price": "$4,795.00",
    "dealer": "Penny Lane Music Emporium",
    "dealer_url": "https://pennylaneemporium.com/"
+  },
+  {
+   "name": "Northfield F5S F-Style Mandolin With Case",
+   "url": "https://store.banjobenclark.com/products/northfield-f5s-f-style-mandolin",
+   "price": "$3,295.00",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/0009/3985/1823/products/Northfield_N-F5S_Front_large.jpg?v=1601670970\" class=\"snize-item-image \" alt=\"Northfield F5S F-Style Mandolin With Case\" border=\"0\">",
+   "dealer": "Banjo Ben's General Store",
+   "dealer_url": "https://banjoben.myshopify.com/"
+  },
+  {
+   "name": "Northfield Artist Series Premium F-Style Mandolin With Case",
+   "url": "https://store.banjobenclark.com/products/pre-owned-northfield-f5s-f-style-mandolin-with-case",
+   "price": "$6,000.00",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/0009/3985/1823/products/Bens_F5S_large.jpg?v=1597353995\" class=\"snize-item-image \" alt=\"Northfield Artist Series Premium F-Style Mandolin With Case\" border=\"0\">",
+   "dealer": "Banjo Ben's General Store",
+   "dealer_url": "https://banjoben.myshopify.com/"
+  },
+  {
+   "name": "Northfield Big Mon F-Style Mandolin With Case",
+   "url": "https://store.banjobenclark.com/products/northfield-big-mon-f-style-mandolin-with-case",
+   "price": "$4,795.00",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/0009/3985/1823/products/Northfield_Big_-Mon_Mando_Front_large.jpg?v=1603404473\" class=\"snize-item-image \" alt=\"Northfield Big Mon F-Style Mandolin With Case\" border=\"0\">",
+   "dealer": "Banjo Ben's General Store",
+   "dealer_url": "https://banjoben.myshopify.com/"
   },
   {
    "name": "Northfield Calhoun Mandolin Made in USA",
@@ -429,5 +452,45 @@
    "dealer": "Morgan Music",
    "dealer_url": "http://www.morganmusic.com/",
    "price": " $3,299.99"
+  },
+  {
+   "name": "Northfield A5 Special",
+   "url": "https://store.dustystrings.com/p-4865-northfield-a5-special.aspx",
+   "image": "<img src=\"https://store.dustystrings.com/images/product/icon/ae00-5847.jpg\" alt=\"Northfield A5 Special\" class=\"grid-item-image product-image\">",
+   "dealer": "Dusty Strings",
+   "dealer_url": "https://store.dustystrings.com/default.aspx",
+   "price": "$3,500.00"
+  },
+  {
+   "name": "Northfield Archtop Octave Mandolin",
+   "url": "https://store.dustystrings.com/p-5260-northfield-archtop-octave-mandolin.aspx",
+   "image": "<img src=\"https://store.dustystrings.com/images/product/icon/ae00-6242.jpg\" alt=\"Northfield Archtop Octave Mandolin\" class=\"grid-item-image product-image\">",
+   "dealer": "Dusty Strings",
+   "dealer_url": "https://store.dustystrings.com/default.aspx",
+   "price": "$5,000.00"
+  },
+  {
+   "name": "Northfield Big Mon",
+   "url": "https://store.dustystrings.com/p-4313-northfield-big-mon.aspx",
+   "image": "<img src=\"https://store.dustystrings.com/images/product/icon/ae00-5295.jpg\" alt=\"Northfield Big Mon\" class=\"grid-item-image product-image\">",
+   "dealer": "Dusty Strings",
+   "dealer_url": "https://store.dustystrings.com/default.aspx",
+   "price": "$4,795.00"
+  },
+  {
+   "name": "Northfield F2S",
+   "url": "https://store.dustystrings.com/p-6435-northfield-f2s.aspx",
+   "image": "<img src=\"https://store.dustystrings.com/images/product/icon/ae00-7281.jpg\" alt=\"Northfield F2S\" class=\"grid-item-image product-image\">",
+   "dealer": "Dusty Strings",
+   "dealer_url": "https://store.dustystrings.com/default.aspx",
+   "price": "$3,295.00"
+  },
+  {
+   "name": "Northfield Flat Top Octave Mandolin",
+   "url": "https://store.dustystrings.com/p-5982-northfield-flat-top-octave-mandolin.aspx",
+   "image": "<img src=\"https://store.dustystrings.com/images/product/icon/ae00-7006.jpg\" alt=\"Northfield Flat Top Octave Mandolin\" class=\"grid-item-image product-image\">",
+   "dealer": "Dusty Strings",
+   "dealer_url": "https://store.dustystrings.com/default.aspx",
+   "price": "$2,895.00"
   }
  ]
