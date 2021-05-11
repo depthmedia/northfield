@@ -35,6 +35,7 @@
   {
    "name": "Northfield Artist 5-Bar w/ One-Piece Back and Icelandic Brown Finish (#A210104)",
    "url": "https://www.avenueguitars.com/collections/northfield-mandolins/products/northfield-artist-5-bar-w-one-piece-back-and-icelandic-brown-finish-a210104",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/1780/0641/products/NorthfieldArtist5-barOne-PieceBackIcelandicBrownMandolin-SN-A210104-Image02_2048x2048.jpg\">",
    "price": "$6,000",
    "dealer": "Avenue Guitars",
    "dealer_url": "https://www.avenueguitars.com/"
@@ -42,6 +43,7 @@
   {
    "name": "Northfield Artist 5-Bar Engelmann w/ Wide Nut & One-Piece Back (#A210108)",
    "url": "https://www.avenueguitars.com/collections/northfield-mandolins/products/northfield-artist-5-bar-engelmann-w-wide-nut-one-piece-back-a210108",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/1780/0641/products/NorthfieldArtist5-BarEngelmannw_WideNut_One-PieceBack-NFA-F51EW-SN-A210108-Image02_2048x2048.jpg\">",
    "price": "$6,495",
    "dealer": "Avenue Guitars",
    "dealer_url": "https://www.avenueguitars.com/"
@@ -110,6 +112,7 @@
   {
    "name": "Northfield Model M+",
    "url": "https://themusicemporium.com/products/northfield-model-m",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-M_1800x1800.jpg\">",
    "price": "$2,795.00",
    "dealer": "The Music Emporium",
    "dealer_url": "https://themusicemporium.com/"
@@ -117,6 +120,7 @@
   {
    "name": "Northfield NF-F5S Sunburst",
    "url": "https://themusicemporium.com/products/northfield-nf-f5s-sunburst",
+   "image": "<img src=\"https://cdn.shopify.com/s/files/1/0452/1387/6381/products/NOR-F5S-3_1800x1800.jpg\">",
    "price": "$3,295.00",
    "dealer": "The Music Emporium",
    "dealer_url": "https://themusicemporium.com/"
@@ -585,7 +589,7 @@
    "name": "Northfield Calhoun Mandolin",
    "url": "https://guitargallery.com.au/product/northfield-calhoun-mandolin/",
    "price": "$1,899.00",
-   "image": "<img src=\"https://guitargallery.com.au/wp-content/uploads/Northfield-Calhoun-Mandolin-Front-Close-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Northfield Calhoun Mandolin\" loading=\"lazy\" srcset=\"https://guitargallery.com.au/wp-content/uploads/Northfield-Calhoun-Mandolin-Front-Close-300x300.jpg 300w, https://guitargallery.com.au/wp-content/uploads/Northfield-Calhoun-Mandolin-Front-Close-150x150.jpg 150w, https://guitargallery.com.au/wp-content/uploads/Northfield-Calhoun-Mandolin-Front-Close-100x100.jpg 100w\" sizes=\"(max-width: 300px) 100vw, 300px\" >",
+   "image": "<img src=\"https://guitargallery.com.au/wp-content/uploads/Northfield-Calhoun-Mandolin-Front-Close-300x300.jpg\" >",
    "dealer": "Guitar Gallery - Australia",
    "dealer_url": "https://guitargallery.com.au/"
   },
@@ -593,7 +597,7 @@
    "name": "**Northfield The “Big Mon” F-5",
    "url": "https://guitargallery.com.au/product/northfield-the-big-mon-f-5/",
    "price": "$6,399.00",
-   "image": "<img src=\"https://guitargallery.com.au/wp-content/uploads/20200506_161841-scaled-e1590549744822-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Northfield The &quot;Big Mon&quot; F-5 Front\" loading=\"lazy\" srcset=\"https://guitargallery.com.au/wp-content/uploads/20200506_161841-scaled-e1590549744822-300x300.jpg 300w, https://guitargallery.com.au/wp-content/uploads/20200506_161841-scaled-e1590549744822-150x150.jpg 150w, https://guitargallery.com.au/wp-content/uploads/20200506_161841-scaled-e1590549744822-100x100.jpg 100w\" sizes=\"(max-width: 300px) 100vw, 300px\" >",
+   "image": "<img src=\"https://guitargallery.com.au/wp-content/uploads/20200506_161841-scaled-e1590549744822-300x300.jpg\" >",
    "dealer": "Guitar Gallery - Australia",
    "dealer_url": "https://guitargallery.com.au/"
   },
@@ -654,7 +658,7 @@
   {
    "name": "Northfield - The Flat Top Oktav Mandoline in Walnuss",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-the-flat-top-octave-in-all-walnut-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/Northfield_Flattop_7_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/Northfield_Flattop_7_150x150.jpg\" alt=\"\">",
    "price": "3190,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -663,7 +667,7 @@
   {
    "name": "Northfield A 5 Special Mandoline Sunburst",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-a-5-special-mandoline-sunburst-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/Northfield_A5Special_15_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/Northfield_A5Special_15_150x150.jpg\" alt=\"\">",
    "price": "3890,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -672,7 +676,7 @@
   {
    "name": "Northfield Airloom Recurve Mandolinen Koffer in grau",
    "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-airloom-recurve-mandolinen-koffer-in-grau-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/airloom-4_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/airloom-4_150x150.jpg\" alt=\"\">",
    "price": "299,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -681,7 +685,7 @@
   {
    "name": "Northfield Airloom Recurve Mandolinen Koffer in grün",
    "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-airloom-recurve-mandolinen-koffer-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/airloom-1_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/airloom-1_150x150.jpg\" alt=\"\">",
    "price": "329,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -690,7 +694,7 @@
   {
    "name": "Northfield Artist Custom F Mandoline",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-artist-custom-f-mandoline-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/Northfield_ArtistCustom2021_8_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/Northfield_ArtistCustom2021_8_150x150.jpg\" alt=\"\">",
    "price": "7490,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -699,7 +703,7 @@
   {
    "name": "Northfield Mandolin Armrest - Michigan Koa",
    "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-mandolin-armrest-koa-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/armrest_koa_1_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/armrest_koa_1_150x150.jpg\" alt=\"\">",
    "price": "49,90 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -708,7 +712,7 @@
   {
    "name": "Northfield Modell M",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-modell-m-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/Northfield_ModellM_8_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/Northfield_ModellM_8_150x150.jpg\" alt=\"\">",
    "price": "2999,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -717,7 +721,7 @@
   {
    "name": "Northfield Neck Rest - short",
    "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-neck-rest-short-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/NorthfieldNeckRest-20_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/NorthfieldNeckRest-20_150x150.jpg\" alt=\"\">",
    "price": "31,90 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -726,7 +730,7 @@
   {
    "name": "Northfield Neck Rest - Tall",
    "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-neck-rest-tall-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/NorthfieldNeckRest-10_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/NorthfieldNeckRest-10_150x150.jpg\" alt=\"\">",
    "price": "35,90 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -735,7 +739,7 @@
   {
    "name": "Northfield NF5 S Black Top Mandolin with Airloom Recurve Koffer",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-nf5-s-black-top-mandolin-with-airloom-recurve-koffer-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/F5SB_Back_6_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/F5SB_Back_6_150x150.jpg\" alt=\"\">",
    "price": "3890,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
@@ -744,7 +748,7 @@
   {
    "name": "Northfield NF5 S Mandoline mit Airloom Recurve Koffer!",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-nf5-s-mandoline-mit-airloom-recurve-koffer-detail",
-   "image": "<img class=\"featuredProductImage\" src=\"/images/stories/virtuemart/product/resized/Northfield_F5S_132_150x150.jpg\" alt=\"\">",
+   "image": "<img class=\"featuredProductImage\" src=\"https://n-a-g.info/images/stories/virtuemart/product/resized/Northfield_F5S_132_150x150.jpg\" alt=\"\">",
    "price": "3690,00 €",
    "dealer": "New Acoustic Gallery - Germany",
    "dealer_url": "https://n-a-g.info/en/",
