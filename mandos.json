@@ -332,7 +332,7 @@
    "name": "Northfield Big Mon - Engelmann",
    "url": "http://www.fiddlersgreenmusicshop.com/instrument/northfield-big-mon-engelmann",
    "price": "4,995.00",
-   "image": "<div class=\"name\" itemprop=\"name\">Northfield Big Mon - Engelmann</div>",
+   "image": "<img src=\https://res.cloudinary.com/keystone-demo/image/upload/c_limit,h_600,w_600/lccfisiuha3be9feszog.jpg\">",
    "dealer": "Fiddler's Green",
    "dealer_url": "http://www.fiddlersgreenmusicshop.com/"
   },
@@ -340,17 +340,9 @@
    "name": "Northfield F5S Sunburst",
    "url": "http://www.fiddlersgreenmusicshop.com/instrument/northfield-f5s-sunburst",
    "price": "3,495.00",
-   "image": "<div class=\"name\" itemprop=\"name\">Northfield F5S Sunburst</div>",
+   "image": "<img src=\https://res.cloudinary.com/keystone-demo/image/upload/c_limit,h_600,w_600/zqzqxvcyljlyxt3ob7yp.jpg\">",
    "dealer": "Fiddler's Green",
    "dealer_url": "http://www.fiddlersgreenmusicshop.com/"
-  },
-  {
-  },
-  {
-  },
-  {
-  },
-  {
   },
   {
    "name": "Northfield The “Big Mon“ Wide Fretboard",
