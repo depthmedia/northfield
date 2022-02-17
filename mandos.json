@@ -332,7 +332,7 @@
    "name": "Northfield Big Mon - Engelmann",
    "url": "http://www.fiddlersgreenmusicshop.com/instrument/northfield-big-mon-engelmann",
    "price": "4,995.00",
-   "image": "<img src=\"https://res.cloudinary.com/keystone-demo/image/upload/c_limit,h_600,w_600/lccfisiuha3be9feszog.jpg\">",
+   "image": "<img src=\https://res.cloudinary.com/keystone-demo/image/upload/c_limit,h_600,w_600/lccfisiuha3be9feszog.jpg\">",
    "dealer": "Fiddler's Green",
    "dealer_url": "http://www.fiddlersgreenmusicshop.com/"
   },
@@ -340,7 +340,7 @@
    "name": "Northfield F5S Sunburst",
    "url": "http://www.fiddlersgreenmusicshop.com/instrument/northfield-f5s-sunburst",
    "price": "3,495.00",
-   "image": "<img src=\"https://res.cloudinary.com/keystone-demo/image/upload/c_limit,h_600,w_600/zqzqxvcyljlyxt3ob7yp.jpg\">",
+   "image": "<img src=\https://res.cloudinary.com/keystone-demo/image/upload/c_limit,h_600,w_600/zqzqxvcyljlyxt3ob7yp.jpg\">",
    "dealer": "Fiddler's Green",
    "dealer_url": "http://www.fiddlersgreenmusicshop.com/"
   },
@@ -433,30 +433,6 @@
    "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
   },
   {
-   "name": "Northfield Airloom Recurve Mandolinen Koffer in grün",
-   "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-airloom-recurve-mandolinen-koffer-detail",
-   "price": "329,00 €",
-   "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/airloom-1_150x150.jpg\" alt=\"\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
-  },
-  {
-   "name": "Northfield Airloom Recurve Mandolinen Koffer in grau!",
-   "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-airloom-recurve-mandolinen-koffer-in-grau-detail",
-   "price": "299,90 €",
-   "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/airloom-4_150x150.jpg\" alt=\"\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
-  },
-  {
-   "name": "Northfield Mandolin Armrest - Michigan Koa",
-   "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-mandolin-armrest-koa-detail",
-   "price": "49,90 €",
-   "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/armrest_koa_1_150x150.jpg\" alt=\"\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
-  },
-  {
    "name": "Northfield NF5 S Black Top Mandolin with Airloom Recurve Koffer",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-nf5-s-black-top-mandolin-with-airloom-recurve-koffer-detail",
    "price": "3990,00 €",
@@ -469,30 +445,6 @@
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-modell-m-detail",
    "price": "2999,00 €",
    "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/Northfield_ModellM_8_150x150.jpg\" alt=\"\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
-  },
-  {
-   "name": "Saiten für Northfield's Archtop Oktav Mandoline",
-   "url": "https://n-a-g.info/en/shop/equipment/saiten/mandoline2013-03-09-21-02-102013-03-09-21-02-10/octave-string-sets-by-northfield-detail",
-   "price": "18,90 €",
-   "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/Northfield Oktav_3_150x150.jpg\" alt=\"\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
-  },
-  {
-   "name": "Northfield Neck Rest - short",
-   "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-neck-rest-short-detail",
-   "price": "31,90 €",
-   "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/NorthfieldNeckRest-20_150x150.jpg\" alt=\"\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
-  },
-  {
-   "name": "Northfield Neck Rest - Tall",
-   "url": "https://n-a-g.info/en/shop/equipment/mandoline/northfield-neck-rest-tall-detail",
-   "price": "35,90 €",
-   "image": "<img class=\"featuredProductImage\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/NorthfieldNeckRest-10_150x150.jpg\" alt=\"\">",
    "dealer": "New Acoustic Guitar",
    "dealer_url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/by,category_name/results,1-50"
   },
