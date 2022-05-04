@@ -637,7 +637,7 @@
   {
    "name": "Northfield NFM-A5 €2895",
    "price": "€2895",
-   "image": "https://www.moloneymusic.com/upload/A1BE58CB-C452-47A6-8334-5CB3A6926E87.jpeg",
+   "image": "<img src=\"https://www.moloneymusic.com/upload/A1BE58CB-C452-47A6-8334-5CB3A6926E87.jpeg\">",
    "image_url": "https://www.moloneymusic.com/Products/Mandolins/mandolins_by_brand/Northfield_Mandolins#product-3",
    "dealer": "Moloney Music",
    "url": "https://www.moloneymusic.com/home/"
