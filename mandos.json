@@ -305,30 +305,6 @@
    "dealer_url": "https://banjoben.myshopify.com/"
   },
   {
-   "name": "Custom Truss Rod Covers for Northfield Mandolins",
-   "url": "https://store.banjobenclark.com/products/custom-truss-rod-covers-for-northfield-mandolins",
-   "price": "$44.95",
-   "image": "<img src=\"https://cdn.shopify.com/s/files/1/0009/3985/1823/products/IMG_7223_large.jpg?v=1665503631\" class=\"snize-item-image \" alt=\"\" loading=\"lazy\" border=\"0\">",
-   "dealer": "Banjo Ben's General Store",
-   "dealer_url": "https://banjoben.myshopify.com/"
-  },
-  {
-   "name": "Northfield Pine Cork-lined Neck Rest—Short",
-   "price": "$30.00",
-   "image": "<img class=\"cItemImage\" src=\"https://media.rainpos.com/6898/IMG_1999_20220915145116.jpg\">",
-   "url": "https://musicstore.oldtownschool.org/shop/c/p/Northfield-Pine-Cork-lined-Neck-RestShort-x59992145.htm",
-   "dealer": "Old Town School",
-   "dealer_url": "https://musicstore.oldtownschool.org/"
-  },
-  {
-   "name": "Northfield Pine Cork-lined Neck Rest—Tall",
-   "price": "$35.00",
-   "image": "<img class=\"cItemImage\" src=\"https://media.rainpos.com/6898/IMG_2001_20220915150254.jpg\">",
-   "url": "https://musicstore.oldtownschool.org/shop/c/p/Northfield-Pine-Cork-lined-Neck-RestTall-x64171512.htm",
-   "dealer": "Old Town School",
-   "dealer_url": "https://musicstore.oldtownschool.org/"
-  },
-  {
    "name": "Northfield USA Old Town School Limited Edition The Calhoun Flattop Mandolin",
    "price": "$1,095.00",
    "image": "<img class=\"cItemImage\" src=\"https://media.rainpos.com/6898/IMG_0343_20220727160138.jpg\">",
@@ -794,7 +770,7 @@
   {
    "name": "Northfield NF-F5S €4290",
    "price": "€4290",
-   "image": "https://www.moloneymusic.com/upload/92B320CC-2216-4D9B-B34A-0553FAA654A8.jpg",
+   "image": "<img class=\"browseProductImage\" loading=\"lazy\" src=\"https://www.moloneymusic.com/upload/92B320CC-2216-4D9B-B34A-0553FAA654A8.jpg\" alt=\"Northfield_Artist_5bar_2\">",
    "image_url": "https://www.moloneymusic.com/Products/Mandolins/mandolins_by_brand/Northfield_Mandolins#product-2",
    "dealer": "Moloney Music",
    "url": "https://www.moloneymusic.com/home/"
