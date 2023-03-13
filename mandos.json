@@ -329,22 +329,6 @@
    "dealer_url": "https://themandolinstore.com/"
   },
   {
-   "name": "Northfield Pine Cork-lined Neck Rest—Short",
-   "price": "$30.00",
-   "image": "<img class=\"cItemImage\" src=\"https://media.musicshop360.com/6898/IMG_1999_20220915145116.jpg\">",
-   "url": "https://musicstore.oldtownschool.org/shop/c/p/Northfield-Pine-Cork-lined-Neck-RestShort-x59992145.htm",
-   "dealer": "Old Town School",
-   "dealer_url": "https://musicstore.oldtownschool.org/"
-  },
-  {
-   "name": "Northfield Pine Cork-lined Neck Rest—Tall",
-   "price": "$35.00",
-   "image": "<img class=\"cItemImage\" src=\"https://media.musicshop360.com/6898/IMG_2001_20220915150254.jpg\">",
-   "url": "https://musicstore.oldtownschool.org/shop/c/p/Northfield-Pine-Cork-lined-Neck-RestTall-x64171512.htm",
-   "dealer": "Old Town School",
-   "dealer_url": "https://musicstore.oldtownschool.org/"
-  },
-  {
    "name": "Northfield Workshop NFB-F5E Master Model \"Big Mon\" Mandolin, Engelmann Top",
    "url": "https://www.elderly.com/products/northfield-workshop-nf5m-master-model-custom-big-mon-mandolin?variant=26856176975936",
    "image": "<img src=\"https://cdn.shopify.com/s/files/1/0147/9412/9472/products/0_a411ecd8-ab15-4f71-9cb1-4a5a4e944f0f_600x.jpg?v=1654034280\" alt=\"Northfield Workshop NFB-F5E Master Model &quot;Big Mon&quot; Mandolin, Engelmann Top\" decode=\"async\" class=\"findify-components-common--image__image\">",
@@ -435,15 +419,6 @@
    "price": "$2,995 USD",
    "dealer": "Elderly Instruments",
    "dealer_url": "https://www.elderly.com/"
-  },
-  {
-   "name": "NORTHFIELD AIRLOOM TURA DELUXE MANDOLIN CASE",
-   "url": "https://www.morganmusic.com/p-6100-northfield-airloom-tura-deluxe-mandolin-case.aspx",
-   "sold": "",
-   "image": "<img src=\"https://www.morganmusic.com/images/product/icon/ae00-3965.jpg\" alt=\"NORTHFIELD AIRLOOM TURA DELUXE MANDOLIN CASE\" class=\"grid-item-image product-image\">",
-   "dealer": "Morgan Music",
-   "dealer_url": "http://www.morganmusic.com/",
-   "price": " $695.00"
   },
   {
    "name": "NORTHFIELD BIG MON F5 MANDOLIN",
