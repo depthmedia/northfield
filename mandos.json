@@ -700,14 +700,6 @@
    "dealer_url": "https://n-a-g.info/en/"
   },
   {
-   "name": "Saiten für Northfield's Archtop Oktav Mandoline",
-   "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/octave-string-sets-by-northfield-detail",
-   "price": "18,90 €",
-   "image": "<img class=\"browseProductImage\" loading=\"lazy\" src=\"https://www.n-a-g.info/images/stories/virtuemart/product/resized/Northfield Oktav_3_150x150.jpg\" alt=\"Northfield Oktav_3\">",
-   "dealer": "New Acoustic Guitar",
-   "dealer_url": "https://n-a-g.info/en/"
-  },
-  {
    "name": "Northfield Neck Rest - short",
    "url": "https://n-a-g.info/en/shop/instruments/mandolinen/northfield/northfield-neck-rest-short-detail",
    "price": "35,90 €",
@@ -782,7 +774,8 @@
   {
    "name": "Northfield NFM-A5 €3199",
    "price": "€3199",
-   "image": "https://www.moloneymusic.com/upload/IMG_6963.jpeg",
+   "image": "<img src=\"https://www.moloneymusic.com/upload/IMG_6963.jpeg\">",
+   "dealer": "New Acoustic Guitar",
    "image_url": "https://www.moloneymusic.com/Products/Mandolins/mandolins_by_brand/Northfield_Mandolins#product-1",
    "dealer": "Moloney Music",
    "url": "https://www.moloneymusic.com/home/"
@@ -790,7 +783,7 @@
   {
    "name": "Northfield NFS-F5sunburst",
    "price": "",
-   "image": "https://www.moloneymusic.com/upload/AEC14A12-AC4B-420E-A282-673F5111F213.jpg",
+   "image": "<img src=\"https://www.moloneymusic.com/upload/AEC14A12-AC4B-420E-A282-673F5111F213.jpg\">",
    "image_url": "https://www.moloneymusic.com/Products/Mandolins/mandolins_by_brand/Northfield_Mandolins#product-3",
    "dealer": "Moloney Music",
    "url": "https://www.moloneymusic.com/home/"
